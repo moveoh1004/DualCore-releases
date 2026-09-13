@@ -4,11 +4,11 @@ YouTube 자막을 화면 위에. 선택형 AI 번역과 Mac 투명 자막을 지
 
 ## 테스트 설치
 
-**[전체 테스트 키트 다운로드](https://github.com/moveoh1004/DuelCore-releases/releases/download/v0.3.1-beta.1/DuelCore-Test-Kit-0.3.1.zip)**
+**[전체 테스트 키트 다운로드](https://github.com/moveoh1004/DuelCore-releases/releases/download/v0.3.2-beta.1/DuelCore-Test-Kit-0.3.2.zip)**
 
 압축을 풀고 `START-HERE.html`을 열면 됩니다. Chrome 확장 폴더와 Apple Silicon·Intel 통합 Mac 설치 DMG가 들어 있습니다.
 
-[설치 안내](https://moveoh1004.github.io/DuelCore-releases/install.html) · [릴리즈 페이지](https://github.com/moveoh1004/DuelCore-releases/releases/tag/v0.3.1-beta.1) · [확장만 받기](https://github.com/moveoh1004/DuelCore-releases/releases/download/v0.3.1-beta.1/DuelCore-0.3.1-chrome.zip) · [Mac 앱만 받기](https://github.com/moveoh1004/DuelCore-releases/releases/download/v0.3.1-beta.1/DuelCore-Mac-0.3.1-universal.dmg)
+[설치 안내](https://moveoh1004.github.io/DuelCore-releases/install.html) · [릴리즈 페이지](https://github.com/moveoh1004/DuelCore-releases/releases/tag/v0.3.2-beta.1) · [확장만 받기](https://github.com/moveoh1004/DuelCore-releases/releases/download/v0.3.2-beta.1/DuelCore-0.3.2-chrome.zip) · [Mac 앱만 받기](https://github.com/moveoh1004/DuelCore-releases/releases/download/v0.3.2-beta.1/DuelCore-Mac-0.3.2-universal.dmg)
 
 확장은 웹 스토어 등록 전 테스트 배포본으로 Chrome 개발자 모드에서 설치합니다. Mac 앱은 macOS 13 이상을 지원하며 개발용 임시 서명입니다. Apple 공증은 받지 않아 첫 실행 시 시스템 설정에서 허용이 필요할 수 있습니다. GitHub의 Source code ZIP은 설치 파일이 아닙니다.
 
